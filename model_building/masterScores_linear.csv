@@ -1,0 +1,4 @@
+Model,data_process,r2_5kf_mean,rmse_5kf_mean
+MLR,dummified_threeXOutlier,0.8421555208505801,26329.284397016647
+MLR,dummified_onlyNormalCondition,0.8676705573209492,25700.21435910754
+MLR,dummified_allOutliers,0.8170611868660143,31730.59663826159

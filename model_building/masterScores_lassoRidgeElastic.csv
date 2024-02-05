@@ -1,0 +1,10 @@
+Model,data_process,r2_5kf_mean,rmse_5kf_mean
+lasso,dummifiedNoDrop_threeXOutlier,0.899724620214011,20901.033141010437
+lasso,dummifiedNoDrop_onlyNormalCondition,0.9332956297120116,18203.509018897235
+lasso,dummifiedNoDrop_allOutliers,0.8916310897777423,24067.06293235791
+ridge,dummifiedNoDrop_threeXOutlier,0.8971995166848037,21132.978955292245
+ridge,dummifiedNoDrop_onlyNormalCondition,0.9310329395070323,18516.62248439827
+ridge,dummifiedNoDrop_allOutliers,0.8932861881134299,23982.31321804232
+elasticNet,dummifiedNoDrop_threeXOutlier,0.8995433972668755,20924.639689182128
+elasticNet,dummifiedNoDrop_onlyNormalCondition,0.9289415280358115,18789.04294025607
+elasticNet,dummifiedNoDrop_allOutliers,0.8974686297864973,23648.736387279157
