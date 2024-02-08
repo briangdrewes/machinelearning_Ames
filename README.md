@@ -1,4 +1,4 @@
-## AMES 
+# Machine Learning - Regression Modeling for Predicting Real Estate Housing Prices in Ames, Iowa
 
 Hello, thank you for taking a look at my machine learning project on housing data prediction. This dataset is from a study that Dean De Cock used to repalce the classic Boston Housing Data in regression analysis. The data used in this project is a bit different from his original dataset since we had some extra records to add to the dataset to assist with training & testing. (2580 rows x 82 columns)
 
